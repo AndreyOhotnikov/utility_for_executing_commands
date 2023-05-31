@@ -1,0 +1,27 @@
+{
+  "name": "utility_for_executing_commands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyOhotnikov/utility_for_executing_commands.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreyOhotnikov/utility_for_executing_commands/issues"
+  },
+  "homepage": "https://github.com/AndreyOhotnikov/utility_for_executing_commands#readme",
+  "dependencies": {
+    "inquirer": "^9.2.6"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.2.5"
+  }
+}
