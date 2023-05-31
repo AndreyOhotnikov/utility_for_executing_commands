@@ -1,2 +1,1 @@
-# utility_for_executing_commands
-Utility for executing commands
+# Utility for executing commands
